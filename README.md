@@ -4,5 +4,5 @@
 </p>
 
 - 📚 **联系**：tangssst@qq.com
-- 💻**后端**：Java，Golang，Python
+- 💻**后端**：Golang，Python
 
