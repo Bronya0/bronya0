@@ -5,6 +5,7 @@
 
 - 📚 **联系**：tangssst@qq.com
 - 💻**后端**：Python，Golang
+- 博客：[](https://blog.ysboke.cn/posts)
 
 ## 个人项目
 ### [Kafka-King](https://github.com/Bronya0/Kafka-King)
