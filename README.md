@@ -1,9 +1,11 @@
 ## Welcome to visit my GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=Bronya0&show_icons=true" />
 
 
 - 📚 **email**：tangssst@qq.com
 - 💻 **language**：Python，Golang
 - 📑 **blog**：[https://blog.ysboke.cn/](https://blog.ysboke.cn/posts)
+
 
 ## My Project
 ### [Kafka-King](https://github.com/Bronya0/Kafka-King) ![GitHub stars](https://img.shields.io/github/stars/Bronya0/Kafka-King) ![GitHub forks](https://img.shields.io/github/forks/Bronya0/Kafka-King)  ![GitHub All Releases](https://img.shields.io/github/downloads/Bronya0/Kafka-King/total)  
@@ -34,8 +36,3 @@ golang gin starter
 ### [compress-image](https://github.com/Bronya0/compress-image)  ![GitHub All Releases](https://img.shields.io/github/downloads/Bronya0/compress-image/total) 
 Image batch compression tool | 图片批量压缩工具
 
-## Language
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bronya0&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
-
-## Contribute
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Bronya0&show_icons=true" />
