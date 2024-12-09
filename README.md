@@ -35,8 +35,7 @@ golang gin starter
 Image batch compression tool | 图片批量压缩工具
 
 ## Language
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bronya0&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bronya0&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
 
-### Recent Activity
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bronya0&theme=vue)
+## Contribute
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Bronya0&show_icons=true" />
