@@ -1,7 +1,5 @@
-<h2 align="center">Welcome to visit my GitHub.</h2>
-<p align="center">
-  <a href="https://github.com/Bronya0"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
-</p>
+## Welcome to visit my GitHub
+
 
 - 📚 **email**：tangssst@qq.com
 - 💻 **language**：Python，Golang
@@ -35,3 +33,10 @@ golang gin starter
 
 ### [compress-image](https://github.com/Bronya0/compress-image)  ![GitHub All Releases](https://img.shields.io/github/downloads/Bronya0/compress-image/total) 
 Image batch compression tool | 图片批量压缩工具
+
+## Language
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bronya0&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
+
+### Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bronya0&theme=vue)
