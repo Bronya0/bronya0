@@ -18,7 +18,7 @@ epub合并工具
 typora主题，叫做bronya
 ### [webp-to-jpg](https://github.com/Bronya0/webp-to-jpg) ![](https://img.shields.io/github/stars/Bronya0/webp-to-jpg.svg?style=flat-square) ![](https://img.shields.io/github/downloads/Bronya0/webp-to-jpg/total.svg?style=flat-square)
 Convert webp images to jpeg | 把webp图片转为jpeg
-### [gin-starter](https://github.com/Bronya0/gin-starter)  ![](https://img.shields.io/github/stars/Bronya0/gin-starter.svg?style=flat-square)
-golang gin脚手架
+### [web-starter](https://github.com/Bronya0/web-starter)  ![](https://img.shields.io/github/stars/Bronya0/web-starter.svg?style=flat-square)
+golang web脚手架
 ### [django-onii](https://github.com/Bronya0/django-onii) ![](https://img.shields.io/github/stars/Bronya0/django-onii.svg?style=flat-square) 
 python django+drf脚手架
