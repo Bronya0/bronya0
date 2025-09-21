@@ -20,5 +20,9 @@ typora主题，叫做bronya
 Convert webp images to jpeg | 把webp图片转为jpeg
 ### [web-starter](https://github.com/Bronya0/web-starter)  ![](https://img.shields.io/github/stars/Bronya0/web-starter.svg?style=flat-square)
 golang web脚手架
+### [go-utils](https://github.com/Bronya0/go-utils) ![](https://img.shields.io/github/stars/Bronya0/go-utils.svg?style=flat-square) 
+Golang安全、高效的操作函数
+### [epub-merge](https://github.com/Bronya0/epub-merge) ![](https://img.shields.io/github/stars/Bronya0/epub-merge.svg?style=flat-square) 
+epub合并工具
 ### [django-onii](https://github.com/Bronya0/django-onii) ![](https://img.shields.io/github/stars/Bronya0/django-onii.svg?style=flat-square) 
 python django+drf脚手架
