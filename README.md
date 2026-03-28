@@ -21,3 +21,4 @@
 | [**go-utils**](https://github.com/Bronya0/go-utils) | 提供Golang中安全、高效的操作函数 | [![GitHub Stars](https://img.shields.io/github/stars/Bronya0/go-utils.svg?style=flat-square)](https://github.com/Bronya0/go-utils) |
 | [**django-onii**](https://github.com/Bronya0/django-onii) | 基于Python Django+DRF的脚手架 | [![GitHub Stars](https://img.shields.io/github/stars/Bronya0/django-onii.svg?style=flat-square)](https://github.com/Bronya0/django-onii) |
 | [**Jetbrains-Darcula-Zed-Theme**](https://github.com/Bronya0/Jetbrains-Darcula-Zed-Theme) | 仿Jetbrains Zed的Darcula主题 | [![GitHub Stars](https://img.shields.io/github/stars/Bronya0/Jetbrains-Darcula-Zed-Theme.svg?style=flat-square)](https://github.com/Bronya0/Jetbrains-Darcula-Zed-Theme) |
+| [**HDFS-King**](https://github.com/Bronya0/HDFS-King) | HDFS客户端 | [![GitHub Stars](https://img.shields.io/github/stars/Bronya0/HDFS-King.svg?style=flat-square)](https://github.com/Bronya0/HDFS-King) 
